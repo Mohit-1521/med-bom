@@ -15,16 +15,16 @@ const teamMembers = [
         message: "\"This event is so much more than a competition, it is a space where ideas meet, conversations flow, and lasting connections are built. Leading the team has shown me the power of collaboration, trust, and the shared belief that mediation can truly shape the way we resolve conflicts.\""
     },
     {
-        name: "Nazifa Khateeb",
-        role: "Head of Operations",
-        image: "/assets/Chairs/Head of Operations - Nazifa Khateeb.JPG",
-        message: "\"Behind the scenes, I saw the spirit, energy, and passion that makes MedBom so special. It was never just about operations it was about the people, the shared vision, and the bonds we built while making it all happen.\""
-    },
-    {
         name: "Vikhyat Sharma",
         role: "Associate Chairperson",
         image: "/assets/Chairs/Associate Chairperson - Vikhyat Sharma.jpeg",
         message: "\"To work behind the scenes of a forum that hosts world-class judges and welcomes exceptional teams from across the globe has been a privilege in itself. Mediation Bombay has been a masterclass in teamwork, excellence, and perseverance.\""
+    },
+    {
+        name: "Nazifa Khateeb",
+        role: "Head of Operations",
+        image: "/assets/Chairs/Head of Operations - Nazifa Khateeb.JPG",
+        message: "\"Behind the scenes, I saw the spirit, energy, and passion that makes MedBom so special. It was never just about operations it was about the people, the shared vision, and the bonds we built while making it all happen.\""
     }
 ];
 

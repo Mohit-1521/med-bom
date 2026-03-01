@@ -58,7 +58,7 @@ const Navbar = () => {
             color: 'var(--text-primary)',
             letterSpacing: '-0.02em'
           }}>
-            MedBOM <span style={{ color: 'var(--color-accent)' }}>6.0</span>
+            Mediation Bombay
           </span>
         </a>
 

@@ -64,7 +64,7 @@ const Footer = () => {
                                 Mumbai, Maharashtra, India
                             </li>
                             <li>
-                                <a href="mailto:adr@mnlumumbai.edu.in" style={{ color: 'var(--color-accent)' }}>adr@mnlumumbai.edu.in</a>
+                                <a href="mailto:mediationbombay@mnlumumbai.edu.in" style={{ color: 'var(--color-accent)' }}>mediationbombay@mnlumumbai.edu.in</a>
                             </li>
                         </ul>
                     </div>
