@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mediationbombay.com/sitemap.xml
+Sitemap: https://www.mediationbombay.in/sitemap.xml
